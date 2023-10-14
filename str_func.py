@@ -1,5 +1,6 @@
 def upper_sentence(sentence):
     """Функция возвращает все буквы предложения заглавными."""
+    """Повторяю попытку"""
     return sentence.upper()
 
 sentence = "Hello world"
